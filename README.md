@@ -2,7 +2,7 @@
 
 🎓 Bachelor's Student in Computer Science and Information Technology (BSc CSIT) at Tribhuvan University.
 
-💡 I am passionate about technology, user-centered design, and creating meaningful digital experiences. My goal is to become a UI/UX Designer while continuously expanding my skills in software development and problem-solving.
+💡 I am passionate about technology, user-centered design, and creating meaningful digital experiences. I aspire to become a UI/UX Designer while continuously expanding my skills in software development and problem-solving.
 
 🚀 I believe in continuous learning, building impactful projects, and pushing myself beyond my limits. With ambitious goals and a growth mindset, I am working toward becoming a professional who combines creativity, innovation, and technology.
 
