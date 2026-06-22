@@ -20,7 +20,6 @@
 * Python
 * Flask
 * SQL
-* Git & GitHub
 * Figma
 * UI/UX Design
 
